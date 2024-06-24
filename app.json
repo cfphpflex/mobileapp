@@ -2,6 +2,11 @@
   "expo": {
     "name": "mobilesimpleapp",
     "slug": "mobilesimpleapp",
-    "version": "1.0.0"
+    "version": "1.0.0",
+    "extra": {
+      "eas": {
+        "projectId": "6b2d10cd-b385-44e5-b90e-c98d8f4dc9ce"
+      }
+    }
   }
 }

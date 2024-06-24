@@ -10,7 +10,10 @@ npm install @react-navigation/native @react-navigation/bottom-tabs react-native-
 
 npx expo start --reset-cache
 
+expo login
+requires apple developer prog.
 
+eas build -p ios 
 
 git remote add origin https://github.com/yourusername/mobileapp.git
 
